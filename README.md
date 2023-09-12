@@ -82,14 +82,14 @@ If you would like to know more about me, may I suggest visiting the [About](http
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-![Views](https://komarev.com/ghpvc/?username=dzenis-h&label=Profile+visitors:)
+![Views](https://komarev.com/ghpvc/?username=cesarmayo18&label=Profile+visitors:)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzenis-h&layout=compact&theme=dark)]([https://github.com/jrmydix](https://github.com/dzenis-h))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarmayo18&layout=compact&theme=dark)]([https://github.com/jrmydix](https://github.com/dzenis-h))
   
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dzenis-h&count_private=true&show_icons=true&theme=dark&hide=issues)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarmayo18&count_private=true&show_icons=true&theme=dark&hide=issues)
 
 </div><br>
 
