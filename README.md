@@ -16,8 +16,8 @@ If you would like to know more about me, may I suggest visiting the [About](http
 
 <div align="center">
 
-💌 Contact ➖ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
-📩 Development ➖ developer.dzenis@icloud.com (for a specific development-related request)
+💌 Contact ➖ cesar.mayo18@gmail.com (for a general-purpose contact) <br>
+📩 Development ➖ hola@cesarmayo.com (for a specific development-related request)
 
 <p align="center">
 
